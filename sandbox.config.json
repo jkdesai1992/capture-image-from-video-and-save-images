@@ -1,0 +1,6 @@
+{
+  "template": "create-react-app",
+  "limits": {
+    "loops": 0
+  }
+}
